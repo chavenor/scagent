@@ -1,0 +1,263 @@
+
+How to Build Standalone App: 
+https://nsis.sourceforge.io/Docs/Chapter3.html#installerusageexamples
+https://github.com/dgud/wings/blob/master/BUILD.win32
+
+Phoneix Elixir - Redis PUB SUB: 
+https://github.com/poeticoding/phoenix_chat_example/tree/pubsub_redis
+https://github.com/phoenixframework/phoenix_pubsub_redis
+
+
+Open Browser After Install:
+  URL = "http://www.google.com/", os:cmd("start " ++ URL).
+
+
+Watch files directory: 
+  https://hostiledeveloper.com/2016/02/24/hey-watch-it-or-how-to-monitor-files-in-elixir.html
+
+
+Erl Run Local Commands:
+  http://erlang.org/doc/man/os.html
+
+
+Erl Zip and Unzip Commands: Bottom: 
+  http://erlang.org/doc/man/zip.html
+
+Add System Tray Icon:
+  https://stackoverflow.com/questions/1811516/integrating-erlang-with-c
+  https://bobobobo.wordpress.com/2009/03/30/adding-an-icon-system-tray-win32-c/
+
+
+Front End View JS:
+  https://vuejs.org/
+  https://github.com/vuejs/awesome-vue#time
+  Datetime picker:
+     https://mariomka.github.io/vue-datetime/
+
+  Calendar:
+    https://vcalendar.io/guide/#responsive-layouts
+
+
+"Screenshot"
+nircmd.exe savescreenshot screen1.png
+
+"List Directory"
+os:cmd("dir").  
+
+"Lists everything about computer"
+os:cmd("systeminfo").
+
+erlang:system_time().
+
+"Memory"
+application:start(sasl).
+application:start(os_mon).
+memsup:get_system_memory_data().
+[{system_total_memory,1073741824},
+  {free_memory,503242752},
+  {total_memory,1073741824}]
+
+"Mac Address"
+os:cmd("ipconfig /all").
+
+%Shudown the computer. 
+os:cmd("shutdown /s").
+
+%Restart
+os:cmd("shutdown /r").
+
+%Log off
+os:cmd("shutdown /l").
+
+%Log off
+os:cmd("shutdown /l").
+
+To close message box messagebox.exe
+
+Message Box
+messagebox.exe /v /f=MB_OK /f=MB_ICONWARNING "Digital Dining POS will update in 5 minutes." "POS Upgrade Notice" /w=10000
+
+Elr Message Box
+os:cmd("messagebox.exe /v /f=MB_OK /f=MB_ICONINFORMATION \"Digital Dining updated successfully.\" \"POS Upgrade Notice\"").
+
+F:/Dropbox/BOS Sales LLC/posagent/messagebox
+
+%%Kills the message box application 
+taskkill /IM "messagebox.exe" /F
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDE0sIJDuzxJOfWSWCZ7bFsBdYu2M0luSFAiJJGUSJUOm2k32hpIN7TXGKSgZSXk8dRROxbf2zB/4vIGDuRY5e4FTtDnvVl1AmDUJBjMmmIiNQ5zDsmd7h98fP7NzhvFF8RVi53d60oLG5+/doUOmm5g4ldmi70shTP71MXYB6L9v0YE5G0jtyDOZWifb4e6P/EVX9JxD4gW3gL3hJH6qGOIIYXNUbo8fuHK+C5uOMAKvWUyUvjhQ2GwY37bbHgcW/TwrTvryjjZWtDCmb2VYJaQ0u361TG8K7ku7vgn/e7pq3bEpntb4J9Y98dBJS5wcuSy5cSyWDUr5cMlWd4Sffb casey@Macbook-Air.local
+
+DD File Structure.mp4:
+
+Main or clients: 
+  ddcdsrv1.exe - credit card service 
+  DDLicenseMonitor.exe - license monitor 
+  ddprint.exe -- printer service local or away - remote away to bar or kitchne -- will goto main database service will print the job to where it needs to go. - IP or what have you. 
+  DDCIDSRV.exe -- callerid
+  DDPMSSRV.exe - property management server
+
+
+main called
+  s4service.exe - database service  
+  codebase.exe  - database service if in windows 10   
+    FIX: 
+       Things getting super slow.  Prob memory issue?   Just restart this as well. 
+
+Print Failure: 
+  - On station 
+  or On server
+  or On server and then on each station. 
+
+Changes to print routing, layouts, prep groups, -- have to restart the main ddprint program.
+
+
+Credit Card Services: 
+  Stop working.  Just restart the credit card servcie and should be good. 
+
+
+All 32 bit: 
+  Program Files:  if not 64 bit
+  Program Files x86 -- if 64bit
+c:/Program Files (x86)/Digital Dining/
+  Always the following 
+    Application 
+    HANDHELD
+    System
+
+    In application 
+      ddcdsrv1
+      ddprint
+
+    Data Folder
+    /CDROM/
+      DDCIDSRV.exe -- callerid 
+      DDPMSSRV.exe -- 
+
+    If failes. Restart these below. 
+    DDMSQUE - loyal - giftcard 
+    DDMSGSRV - loyal - gitcard.
+    DDFDSRV -- frequen dinner points. 
+    DDGCSRV -- 
+
+
+    HQFDSRV  -- Headquares. 
+    HQGCSRV
+
+    Close Down
+    HQFDSRV or DDFDSRV
+    DDMSQUE
+    DDMSGSRV
+
+    Start Up
+    DDMSQUE
+    DDMSGSRV
+    HQFDSRV or DDFDSRV
+
+
+Schedular. 
+Agent - Do this on a schedule.  Printing - particular site -- shut it down once per hour or 2 per hour.  Same with credit card server.   Reboot.
+
+Day2-Part1-(POS Setup and Patching Process).mp4:
+/program file s/ digital dinning / application: 
+   Backup the following.
+     - DDDATA.INI - stores the path can be deleted 
+     - DDSTART.INI - Auto launch certain things. 
+     - DDPRINT.INI  -- all the print settings for this box. 
+     - POS.INI -- All the settings for this box. 
+
+     Get version - c\program files\digital dinning \ POS.exe 
+    File Version
+
+
+Patching Digital Dining:
+  Timezone check on each terminal -- make sure we are all the same. 
+
+  1 out of 5 have a problem of somekind.
+
+  Is there enough diskspace? 
+  Are there two back offices?  Which one is the real office?  Run with override?   Check name of share location that computer is likely the main office. 
+
+  Take note of starting time of day? 
+
+  Windows Defender Add exclusion
+  C:\DD Tools 
+  C:\Program Files (x86)\Digital Dining
+
+  Stop Antivirus? 
+
+  Copyover TLS-U\d+
+  Copovyer TLS-P\d+ 
+
+  To the c\program files\digital dinning \
+  Extract to this dir. 
+  Copy and replace contents of release to c\program files\digital dinning \Data\CDROM
+
+  c\program files\digital dinning \Data\CDROM\Datapatch -- if items in this folder then patch is underway. 
+
+  Stop all DD services.
+    DDLicenseMonitor.EXE
+    DDHSRV.EXE
+    Digital Dining Credit Card Server
+    Digital Dining Print Server
+
+    OK to keep running.
+    DDLaunchService
+    DDLicenseServcie
+    DDTimeService
+
+  Stops others from connecting... 
+  Unshare Digital Dining Directory
+    Unsave that folder.
+  Rename - DDData.ini to __DDData.ini
+
+  Runn DDstart from c\program files\digital dinning \Application
+    Log Files @ c\program files\digital dinning \Data 
+        7040300.000
+        7040300.001   -- Version nunber will b 7.4.3.x for binarys.  
+        7040300.002
+        7040300.003
+        7040300.004
+        Text files -- get the last one.. 
+
+  Reboot - Wait for reconnection.
+
+  Verifty start of date is correct. 
+
+  When complete - Stop DD services. 
+    Re-share, Data Folder, DD Start and Antivirius. Reboot Again.
+
+  When reconnected.  Make sure running. 
+  Restart all the termiansl.   DDSTART.exe /STARTUP 
+
+  Email on error. Otherwise success log event and email at the end of the month.
+
+  Remove the original copied over files. 
+
+** Make sure to add excpetion for the applcation and the directorys we expand the zip files into.**
+
+Uninstall Digital Dining:
+  Close all DD or Digital Dinning Servcies. 
+  DD - Unistall via windows uninstaller.  Must reboot afterwards to uninstall codebase properly.
+
+  Mannual Way to Uninstall codebase - c\program files\digital dinning \Data\CDROM\DDservices.msi -- Uninstall
+
+  Remove POS.ini and  DDprint.ini
+  Delete the entire Digital Dinning Directory
+
+  c:\windowsAssembly -- final all with 7.4.3 ( that is version of software) note that DDRemoting will have a Plubc Key Token which we can remove.
+
+
+
+Re-Installing Digital Dining: 
+   1 per week. 
+   
+   ProgramFiles / Digital Dinning 
+   Download files from main server CDROM into new Didgital Dining Folder
+
+   CDROM/Setup.exe -- run as administrator
+   Make sure windows is updated. 
+   Needs .net 4.5 -- installer will try to install .net 2.0 -- errors means you have to do it.  Start servcies in control pannel for windows featreus turn on 3.5 + 2.0 + 3.0 
+
+   Always select DD-Start and check printers and POS (Is there a config file for this?  Must be.)
+
+

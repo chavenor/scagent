@@ -1,0 +1,2078 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"str",
+				"str_results"
+			],
+			[
+				"csv",
+				"csv_reader"
+			],
+			[
+				"impo",
+				"import_file_name"
+			],
+			[
+				"total",
+				"total_scheduled"
+			],
+			[
+				"email",
+				"email_lists"
+			],
+			[
+				"time",
+				"timedelta"
+			],
+			[
+				"date",
+				"datetime"
+			],
+			[
+				"send_",
+				"send_ampm"
+			],
+			[
+				"censu",
+				"census_student_headcount"
+			],
+			[
+				"enti",
+				"entity_name"
+			],
+			[
+				"cens",
+				"census_student_headcount"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"rang",
+				"range_current_step"
+			],
+			[
+				"result",
+				"results"
+			],
+			[
+				"range",
+				"range_max"
+			],
+			[
+				"ran",
+				"range_step"
+			],
+			[
+				"range_",
+				"range_current_step"
+			],
+			[
+				"add",
+				"address_slug"
+			],
+			[
+				"or",
+				"organization_name"
+			],
+			[
+				"has",
+				"hashable_fields"
+			],
+			[
+				"fac",
+				"fb_account"
+			],
+			[
+				"find",
+				"find_element_by_xpath"
+			],
+			[
+				"face",
+				"facebook_user"
+			],
+			[
+				"new_",
+				"new_tags"
+			],
+			[
+				"exe",
+				"except"
+			],
+			[
+				"Univ",
+				"university"
+			],
+			[
+				"resul",
+				"results"
+			],
+			[
+				"addres",
+				"address_verified_vendor"
+			],
+			[
+				"coun",
+				"country"
+			],
+			[
+				"del",
+				"delivery"
+			],
+			[
+				"phon",
+				"phone_s"
+			],
+			[
+				"search",
+				"search_button"
+			],
+			[
+				"sear",
+				"search_field"
+			],
+			[
+				"get_",
+				"get_driver"
+			],
+			[
+				"fin",
+				"find_elements_by_css_selector"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"user_",
+				"user_key"
+			],
+			[
+				"celer",
+				"celery_job"
+			],
+			[
+				"html",
+				"html_data"
+			],
+			[
+				"user",
+				"user_jobs"
+			],
+			[
+				"new_job",
+				"new_jobs"
+			],
+			[
+				"task",
+				"task_id"
+			],
+			[
+				"job",
+				"job_id"
+			],
+			[
+				"getElem",
+				"getElementById"
+			],
+			[
+				"targetEl",
+				"targetElement"
+			],
+			[
+				"Key",
+				"KeyboardInterrupt"
+			],
+			[
+				"human",
+				"human_name"
+			],
+			[
+				"text",
+				"text_findings"
+			],
+			[
+				"aws",
+				"aws_request"
+			],
+			[
+				"publi",
+				"public-read"
+			],
+			[
+				"put_",
+				"put_object"
+			],
+			[
+				"conte",
+				"content_type"
+			],
+			[
+				"cont",
+				"contents_string"
+			],
+			[
+				"imag",
+				"image_base64"
+			],
+			[
+				"use",
+				"user_key"
+			],
+			[
+				"modl",
+				"model_path"
+			],
+			[
+				"mode",
+				"models"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"univer",
+				"university"
+			],
+			[
+				"school",
+				"school_ids"
+			],
+			[
+				"locations",
+				"locations_info"
+			],
+			[
+				"requ",
+				"request_info"
+			],
+			[
+				"na",
+				"naics_codes"
+			],
+			[
+				"build",
+				"build_location_jobs"
+			],
+			[
+				"schoo",
+				"school_id"
+			],
+			[
+				"delet",
+				"delete_records"
+			],
+			[
+				"HTTP",
+				"HttpError"
+			],
+			[
+				"spam",
+				"spam_messages"
+			],
+			[
+				"new",
+				"new_jobs"
+			],
+			[
+				"loca",
+				"locations_info"
+			],
+			[
+				"erro",
+				"error_check"
+			],
+			[
+				"err",
+				"error_check"
+			],
+			[
+				"location",
+				"location"
+			],
+			[
+				"key",
+				"key_space"
+			],
+			[
+				"page",
+				"page_text"
+			],
+			[
+				"send",
+				"send_keys"
+			],
+			[
+				"input",
+				"input_box"
+			],
+			[
+				"find_",
+				"find_elements_by_xpath"
+			],
+			[
+				"capch",
+				"captcha_data"
+			],
+			[
+				"make",
+				"makeguess"
+			],
+			[
+				"cap",
+				"captcha_data"
+			],
+			[
+				"ca",
+				"captcha_data"
+			],
+			[
+				"capt",
+				"captcha"
+			],
+			[
+				"selec",
+				"find_element_by_css_selector"
+			],
+			[
+				"word",
+				"word_count"
+			],
+			[
+				"wor",
+				"word_count"
+			],
+			[
+				"out",
+				"outputs"
+			],
+			[
+				"fire",
+				"firefox"
+			],
+			[
+				"ov",
+				"overide_driver_ssl"
+			],
+			[
+				"locati",
+				"location"
+			],
+			[
+				"create",
+				"create_lead"
+			],
+			[
+				"NA",
+				"NAICS"
+			],
+			[
+				"bas",
+				"basecrm_owner_id"
+			],
+			[
+				"Enter",
+				"Entertainment"
+			],
+			[
+				"sess",
+				"session"
+			],
+			[
+				"sales",
+				"sales_secret_url"
+			],
+			[
+				"session",
+				"session_sales_secret_url"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"templ",
+				"template_name"
+			],
+			[
+				"tem",
+				"template_name"
+			],
+			[
+				"mes",
+				"message"
+			],
+			[
+				"mess",
+				"message1"
+			],
+			[
+				"Send",
+				"SendMessage"
+			],
+			[
+				"split",
+				"splits"
+			],
+			[
+				"cou",
+				"counter"
+			],
+			[
+				"look",
+				"lookup_list"
+			],
+			[
+				"next",
+				"next_item"
+			],
+			[
+				"add_",
+				"add_wildcard"
+			],
+			[
+				"single",
+				"single_set"
+			],
+			[
+				"sing",
+				"single_set"
+			],
+			[
+				"clip",
+				"clip_list"
+			],
+			[
+				"data",
+				"data_dir"
+			],
+			[
+				"for",
+				"form_fee_amount"
+			],
+			[
+				"form_",
+				"form_fee"
+			],
+			[
+				"form",
+				"form_fee_amount"
+			],
+			[
+				"line_",
+				"line_number_2"
+			],
+			[
+				"lin",
+				"line_number_1"
+			],
+			[
+				"block",
+				"block_1"
+			],
+			[
+				"locat",
+				"locations"
+			],
+			[
+				"for_fee",
+				"form_fee_amount"
+			],
+			[
+				"form_f",
+				"form_fee_amount"
+			],
+			[
+				"image",
+				"image_name"
+			],
+			[
+				"pdf",
+				"pdf_input_directory"
+			],
+			[
+				"image_",
+				"image_names_list"
+			],
+			[
+				"oup",
+				"output_file_name"
+			],
+			[
+				"to",
+				"today"
+			],
+			[
+				"rec",
+				"records_per_csv"
+			],
+			[
+				"reco",
+				"record_offset"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/django-shell-campuslists-website.sublime-build",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"json",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"browse",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sf",
+				"SFTP: Browse Server…"
+			],
+			[
+				"browser",
+				"SFTP: Browse Server…"
+			],
+			[
+				"edit s",
+				"SFTP: Edit Server…"
+			],
+			[
+				"server",
+				"SFTP: Browse Server…"
+			],
+			[
+				"set c",
+				"Set Syntax: C"
+			],
+			[
+				"task",
+				"Set Syntax: Tasks"
+			],
+			[
+				"tidy",
+				"Tidy HTML"
+			],
+			[
+				"print",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"jso",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"title",
+				"Convert Case: Title Case"
+			],
+			[
+				"case",
+				"Convert Case: Title Case"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"olower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"html",
+				"Tidy HTML"
+			],
+			[
+				"pprint",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"covert to tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"set tasks",
+				"Set Syntax: Tasks"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"jsdon",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"set",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"set json",
+				"Set Syntax: JSON"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack install",
+				"Package Control: Install Package"
+			],
+			[
+				"ym",
+				"Set Syntax: YAML"
+			],
+			[
+				"set js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"titl",
+				"Convert Case: Title Case"
+			],
+			[
+				"JSON",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"setpy",
+				"Set Syntax: Python"
+			],
+			[
+				"tasks",
+				"Set Syntax: Tasks"
+			],
+			[
+				"pep8",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"installpack",
+				"Package Control: Install Package"
+			],
+			[
+				"h",
+				"HTMLBeautify"
+			],
+			[
+				"tit",
+				"Tidy HTML"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"html ",
+				"HTMLBeautify"
+			],
+			[
+				"java",
+				"Javascript Beautify"
+			],
+			[
+				"sass",
+				"SassBeautify"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"beaut",
+				"HTMLBeautify"
+			],
+			[
+				"set s",
+				"Set Syntax: HTML"
+			],
+			[
+				"packages",
+				"Package Control: Install Package"
+			],
+			[
+				"set task",
+				"Set Syntax: Tasks"
+			],
+			[
+				"pretty xml",
+				"Pretty JSON: JSON 2 XML"
+			],
+			[
+				"plain",
+				"PackageSync: Backup/Restore - Backup Installed Packages List Only"
+			],
+			[
+				"packagin",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"sync",
+				"PackageSync: Sync Online - Push Settings to Online Sync Folder"
+			],
+			[
+				"set javscr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"uuid",
+				"Generate single UUID v4"
+			],
+			[
+				"prett",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"tid",
+				"Tidy HTML"
+			],
+			[
+				"table",
+				"Table Editor: Enable for current view"
+			],
+			[
+				"enable",
+				"Table Editor: Enable for current view"
+			],
+			[
+				"tabel",
+				"Table Editor: Enable for current view"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"tables",
+				"Table Editor: Enable for current syntax"
+			],
+			[
+				"contro instal",
+				"Package Control: Install Package"
+			],
+			[
+				"enc",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"django",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"encod",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"encode",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"en",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"encl",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"t",
+				"Tidy HTML"
+			],
+			[
+				"set jav",
+				"Set Syntax: Java"
+			],
+			[
+				"pack int",
+				"Package Control: Install Package"
+			],
+			[
+				"set ",
+				"Set Syntax: Markdown"
+			],
+			[
+				"pack",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"pre",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"tabl",
+				"Table Editor: Enable for current view"
+			],
+			[
+				"num",
+				"Insert Nums"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"prety",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"css",
+				"Tidy CSS"
+			],
+			[
+				"jv",
+				"Javascript Beautify"
+			],
+			[
+				"enco",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"side",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"set python",
+				"Set Syntax: Python"
+			],
+			[
+				"djan",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"set pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"package disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"set sy pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 316.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/scagent/scagent/lib/csagent.ex",
+		"/C/scagent/scagent/lib/supervisor.ex",
+		"/C/scagent/scagent/mix.exs",
+		"/C/scagent/scagent/info.tasks",
+		"/C/scagent/scagent/phoenix_client/README.md",
+		"/F/Dropbox/BOS Sales LLC/systemcaddy/scagent/_old/scweb/config/dev.exs",
+		"/C/Users/Casey/Desktop/campuslists/software/website/campuslists-website.sublime-workspace",
+		"/C/Users/Casey/Desktop/campuslists/software/website/casey-mac-project.sublime-workspace",
+		"/C/Users/Casey/Desktop/20120102_mbr1l_2935FA9B8747_diag.report",
+		"/F/Dropbox/BOS Sales LLC/backyardmicro/projects/k-9dryers/info.tasks",
+		"/F/Dropbox/BOS Sales LLC/backyardmicro/projects/ec-ops/software/warrantyscan/uploader.py",
+		"/F/Dropbox/BOS Sales LLC/backyardmicro/projects/ec-ops/software/warrantyscan/aws-key.txt",
+		"/F/Dropbox/Camera Uploads (1)/New Text Document.txt",
+		"/F/Dropbox/BOS Sales LLC/backyardmicro/projects/k-9dryers/art/K9-logo/svg-code.txt",
+		"/F/Dropbox/Casey & Brie/Food/Plant Based Diet/recipets.info",
+		"/F/Dropbox/Programing/python/key_examples.py",
+		"/F/Dropbox/Programing/python/function_examples.py",
+		"/F/Dropbox/Programing/python/awscl.info",
+		"/C/Users/Casey/Desktop/AKIAWFBY2G5YE4WTNDAM.txt",
+		"/F/Dropbox/BOS Sales LLC/backyardmicro/scraper-code.info",
+		"/C/Users/Casey/Desktop/ngrok-command.txt",
+		"/F/Dropbox/blah.txt",
+		"/F/Dropbox/info.txt",
+		"/F/Dropbox/test.py",
+		"/F/Dropbox/New Text Document.txt",
+		"/F/Dropbox/mac-setup-Info.txt",
+		"/F/Dropbox/cma-office/apps/chrome-extensions-to-get.txt",
+		"/F/Dropbox/cma-office/apps/gmail-settings.txt",
+		"/F/Dropbox/Casey & Brie/House Build/landscape/info.txt",
+		"/C/Users/Casey/Desktop/campuslists/software/website/scraper/listgen/2019_uw_madison_0-1200",
+		"/C/Users/Casey/Desktop/settings_K-9Dryers.com_20191011 (1).json",
+		"/C/Users/Casey/Desktop/campuslists/software/website/scraper/listgen/michigan.py",
+		"/F/Biz/BOS/Processing/GETI ACH/ACH/pending/ACH Biller/pending/2019-10-07 08x16x58.csv",
+		"/F/Biz/BOS/Processing/GETI ACH/ACH/pending/ACH Biller/pending/archieved/2019-09-19 19x43x13.csv",
+		"/C/Users/Casey/Desktop/info.txt",
+		"/C/Users/Casey/Desktop/campuslists/software/website/scraper/serializers.py",
+		"/C/Users/Casey/Desktop/campuslists/software/website/scraper/search_generator.py",
+		"/C/Users/Casey/Desktop/campuslists/software/website/scraper/scraper-auburn-al.py",
+		"/C/Users/Casey/Desktop/campuslists/software/website/scraper/scraper-oxford-oh.py",
+		"/F/Biz/BOS/Processing/GETI ACH/ACH/pending/ACH Biller/pending/2019-09-19 19x43x13.csv",
+		"/F/Biz/BOS/Processing/GETI ACH/ACH/pending/ACH Biller/pending/archieved/2019-06-16 18x36x05.csv",
+		"/F/Biz/BOS/Processing/GETI ACH/ACH/pending/ACH Biller/pending/2018-11-21 17x21x02 Ed Missing.csv",
+		"/F/Biz/BOS/Processing/GETI ACH/ACH/pending/ACH Biller/pending/archieved/2019-08-09 15x27x54.csv",
+		"/F/Biz/BOS/Processing/GETI ACH/ACH/pending/ACH Biller/pending/archieved/2019-04-15 19x19x57.csv",
+		"/F/Biz/BOS/Processing/GETI ACH/ACH/pending/ACH Biller/pending/archieved/2019-01-21 01x35x13.csv",
+		"/F/Biz/BOS/Processing/GETI ACH/ACH/pending/ACH Biller/pending/CL-9-19-2019.csv",
+		"/F/Dropbox/BOS Sales LLC/csagent/info.tasks",
+		"/F/Dropbox/BOS Sales LLC/csagent/_old/scweb/config/dev.exs",
+		"/F/Dropbox/BOS Sales LLC/csagent/_old/scweb/config/config.exs",
+		"/F/Dropbox/BOS Sales LLC/csagent/lib/csagent.ex",
+		"/F/Dropbox/BOS Sales LLC/csagent/README.md",
+		"/F/Dropbox/BOS Sales LLC/csagent/.gitignore",
+		"/F/Dropbox/BOS Sales LLC/csagent/.formatter.exs",
+		"/F/Dropbox/BOS Sales LLC/csagent/agent.erl",
+		"/F/Dropbox/BOS Sales LLC/scagent/scagent-win.sublime-project",
+		"/F/Dropbox/BOS Sales LLC/scweb/mix.exs",
+		"/F/Dropbox/BOS Sales LLC/scweb/config/config.exs",
+		"/F/Dropbox/BOS Sales LLC/scweb/config/prod.exs",
+		"/F/Dropbox/BOS Sales LLC/scweb/rel/env.sh.eex",
+		"/F/Dropbox/BOS Sales LLC/scweb/rel/env.bat.eex",
+		"/F/Dropbox/BOS Sales LLC/scweb/rel/vm.args.eex",
+		"/F/Dropbox/BOS Sales LLC/scweb/mix.lock",
+		"/F/Dropbox/BOS Sales LLC/scweb/config/prod.secret.exs",
+		"/F/Dropbox/BOS Sales LLC/scweb/config/dev.exs",
+		"/F/Dropbox/BOS Sales LLC/scweb/assets/npm-debug.log",
+		"/F/Dropbox/BOS Sales LLC/scweb/deps/ecto/CHANGELOG.md",
+		"/F/Dropbox/BOS Sales LLC/scweb/deps/ecto/lib/ecto.ex",
+		"/F/Dropbox/BOS Sales LLC/scweb/lib/scweb_web.ex",
+		"/F/Dropbox/BOS Sales LLC/scweb/config/test.exs",
+		"/F/Dropbox/BOS Sales LLC/scweb/lib/scweb/repo.ex",
+		"/F/Dropbox/BOS Sales LLC/scweb/lib/scweb.ex",
+		"/F/Dropbox/BOS Sales LLC/scweb/lib/scweb/application.ex",
+		"/F/Dropbox/BOS Sales LLC/scweb/deps/ecto/lib/ecto/repo.ex",
+		"/C/Users/Casey/Desktop/campuslists/software/website/scraper/listgen/build_csv.py",
+		"/F/Dropbox/BOS Sales LLC/posagent/erlang_commands",
+		"/F/Dropbox/BOS Sales LLC/posagent/erl_crash.dump",
+		"/F/Dropbox/BOS Sales LLC/posagent/agent",
+		"/F/Dropbox/BOS Sales LLC/posagent/test",
+		"/C/Users/Casey/Desktop/ob/network/info.tasks",
+		"/C/Users/Casey/Desktop/GetOS.cmd",
+		"/F/Dropbox/BOS Sales LLC/backyardmicro/projects/ec-finishing-blower/engineering/projects/blower-research/bearing-research-notes.txt",
+		"/F/Biz/BOS/_SushiSoftware/Eddies Calzones/Eddies Calzones - Alburn AL/info.txt",
+		"/C/Users/Casey/Desktop/campuslists/software/website/documents/views.py",
+		"/F/Biz/BOS/Processing/GETI ACH/ACH/pending/ACH Biller/pending/CL-8-29-2019.csv",
+		"/C/Users/Casey/Desktop/campuslists/software/website/scraper/listgen/tools.py",
+		"/C/Users/Casey/Desktop/campuslists/software/website/scraper/listgen/matcher.py",
+		"/C/Users/Casey/Desktop/campuslists/software/website/scraper/listgen/record_importer.py",
+		"/C/Users/Casey/Desktop/campuslists/software/website/scraper/listgen/record_importer_athens-georgia.py",
+		"/C/Users/Casey/Desktop/campuslists/software/website/scraper/listgen/record_importer_ohio-athens.py",
+		"/C/Users/Casey/Desktop/campuslists/software/website/scraper/listgen/record_importer_wisconsin-madison.py",
+		"/C/Users/Casey/Desktop/campuslists/software/website/scraper/listgen/sendyschedule.py",
+		"/C/Users/Casey/Desktop/campuslists/software/website/scraper/listgen/sendysimporter.py",
+		"/C/Users/Casey/Desktop/campuslists/software/website/scraper/listgen/university_importer.py",
+		"/C/Users/Casey/Desktop/campuslists/software/website/achbilling/_old/ach_payment_poster.py",
+		"/C/Users/Casey/Desktop/campuslists/software/website/documents/templates/service-contracts/v005-Genius-Inc-PDF-empty-contract.html",
+		"/C/Users/Casey/Desktop/campuslists/software/website/documents/templates/quotes/v003-Genius-Inc-PDF-quotes-BLANK.html",
+		"/C/Users/Casey/Desktop/campuslists/software/website/sales/pdfer.py",
+		"/C/Users/Casey/Desktop/campuslists/software/website/stack/global_vars.yml",
+		"/C/Users/Casey/Desktop/campuslists/software/website/flexvars/set.py",
+		"/C/Users/Casey/Desktop/campuslists/software/website/documents/urls.py",
+		"/C/Users/Casey/Desktop/campuslists/software/website/documents/templates/service-contracts/v001-PDF-empty-contract.html",
+		"/C/Users/Casey/Desktop/campuslists/software/website/documents/templates/service-contracts/v002-PDF-empty-contract.html",
+		"/C/Users/Casey/Desktop/campuslists/software/website/documents/templates/service-contracts/v004-PDF-empty-contract-trial.html",
+		"/C/Users/Casey/Desktop/campuslists/software/website/documents/templates/service-contracts/v004-PDF-empty-contract.html",
+		"/C/Users/Casey/Desktop/campuslists/software/website/scraper/listgen/madison-wi-undergraduate-students.csv",
+		"/C/Users/Casey/Desktop/campuslists/software/emailer/.git/config",
+		"/C/Users/Casey/Desktop/rabbitmq-simplified.config",
+		"/C/Users/Casey/Desktop/ob/map/info.tasks",
+		"/C/Users/Casey/Desktop/ob/info.tasks",
+		"/F/Dropbox/BOS Sales LLC/backyardmicro/projects/.git/config",
+		"/F/Dropbox/BOS Sales LLC/backyardmicro/projects/ec-finishing-blower/engineering/field-work/manufacturing-floor/floor-video-urls.txt",
+		"/F/Dropbox/BOS Sales LLC/backyardmicro/projects/ec-finishing-blower/engineering/projects/electronics/software/ec-hardware-master/README.md",
+		"/F/Dropbox/BOS Sales LLC/backyardmicro/projects/ec-finishing-blower/engineering/projects/fabric-sleeve/rfp/fabric-sleeve.txt",
+		"/F/Dropbox/BOS Sales LLC/backyardmicro/projects/ec-finishing-blower/engineering/projects/fabric-sleeve/rfp/fabric-sleeve.info",
+		"/F/Dropbox/BOS Sales LLC/backyardmicro/projects/ec-finishing-blower/engineering/projects/fabric-sleeve/rfp/rj9-wire.info",
+		"/F/Dropbox/BOS Sales LLC/backyardmicro/projects/ec-finishing-blower/engineering/projects/fabric-sleeve/rfp/notes.info",
+		"/C/Users/Casey/AppData/Local/Temp/Rar$DIa47940.7596/History.txt",
+		"/F/tf/pip-selfcheck.json",
+		"/P/Applications/to-install.txt",
+		"/F/Account Info/GoDaddy.txt",
+		"/F/Account Info/NETWORK PASSWORDS.txt",
+		"/F/Account Info/robotserver info.txt",
+		"/F/Account Info/ScottTrade.txt",
+		"/F/Account Info/Fantasy Pro Passwords.txt",
+		"/F/deis/deis/README.md",
+		"/F/Applications/Windows 10 Pro v.1709 En-US (64-bit) ACTiVATED-HOBBiT/Torrent_downloaded_from_Demonoid_-_www.demonoid.pw_.txt",
+		"/C/info.py",
+		"/C/Users/Casey/Desktop/USB - TV Stick Update/image/info.txt"
+	],
+	"find":
+	{
+		"height": 52.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"*.py",
+			"",
+			"*.yml",
+			"",
+			"*.html",
+			"*.py",
+			"*.py|html",
+			".py .html",
+			"",
+			"*.py",
+			"",
+			"*.py",
+			"*.css",
+			"*",
+			"*.py",
+			"*.html",
+			"*.py",
+			"*.task",
+			"*.html",
+			"*.py",
+			"*.yml",
+			"*.py",
+			"*.conf",
+			"*.yml",
+			"*",
+			"*.py",
+			"*.yml",
+			"*",
+			"*.py",
+			"*",
+			"*.yml",
+			"",
+			"*.yml",
+			".yml",
+			"",
+			"*j2",
+			"*yml",
+			"*.conf",
+			"*",
+			"*.py",
+			"*",
+			"",
+			"*.py",
+			".py",
+			".pyh",
+			"",
+			"*.html",
+			"*.py",
+			"",
+			"*.py",
+			"*.html",
+			"*",
+			"*.yml",
+			"*.tasks",
+			"*",
+			"*.py",
+			"*",
+			"*.yml",
+			"*",
+			"*.yml",
+			".yml",
+			"*",
+			"*.yml",
+			"*",
+			"*.html",
+			"*",
+			"*.py",
+			"*models.py",
+			"",
+			"*",
+			"*.py",
+			"*",
+			"*.html",
+			"*",
+			"",
+			"*.html",
+			"*.scss",
+			"*.html",
+			"*.scss",
+			"*.html",
+			"*.scss",
+			"*",
+			"C:\\Users\\Casey\\Desktop\\campuslists\\software\\website\\website\\templates",
+			"*",
+			"*.py",
+			"*",
+			"*.py",
+			"<open files>",
+			"*",
+			"*.py",
+			"*",
+			"*.html",
+			"*.py, *.html",
+			"*.py",
+			"*.js",
+			"*.py, *.html",
+			"*.py *.html",
+			"*.txt",
+			"*.py",
+			"*.html, *.py",
+			"*.html",
+			"*.py, *.html",
+			"*.py",
+			"*",
+			"*.py",
+			"*",
+			"*.py",
+			"*.html",
+			"",
+			"*.py",
+			"*.html",
+			"*.py",
+			"*.html",
+			"*",
+			"*.py",
+			"*",
+			"*.py",
+			"*",
+			"all",
+			"*",
+			"C:\\Python27\\",
+			"",
+			"C:\\Users\\Casey\\Desktop\\changemyaddress\\website\\web\\templates\\email",
+			"All",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"521",
+			"id",
+			"ups",
+			"api",
+			"	",
+			"border-radius: 15px;",
+			"border-radius: 25px;",
+			"K-9 III Variable",
+			"Variable",
+			"K-9 III Variable",
+			"K-9 II Variable",
+			"K-9 Fluffer",
+			",",
+			"https://homestaymatch.com/images/no-image-available.png",
+			"https://homestaymatch.com/images/",
+			"-150x150",
+			"http://www.electriccleaner.com/wp-content/uploads/2015/08/",
+			"II-",
+			"/I-",
+			".jpg",
+			"1.jpg",
+			".png",
+			".png\n",
+			"Mini-K-9-",
+			" ",
+			",x",
+			", ",
+			"K9 Parts, ",
+			"K9 Parts,",
+			"except:",
+			"time.sleep(1)",
+			"print",
+			"rebar",
+			"deps",
+			"prodnexport",
+			"prodnexport ",
+			"port",
+			"n$",
+			"bamboo",
+			"ecto",
+			"postgres",
+			"adapter",
+			"curr",
+			"String",
+			"F:",
+			"csv_reader",
+			"first_name",
+			"out_dir_default",
+			"split",
+			"0</td>",
+			"</td>",
+			"&amp;",
+			"checked\">",
+			"1",
+			"allow",
+			"fees",
+			"processing",
+			"processing fees ",
+			"Managing Opt-ins,",
+			"communications between",
+			"previous",
+			"8887",
+			"Texas",
+			"party",
+			" cary ",
+			"street",
+			"Street",
+			"street",
+			"105",
+			"205",
+			"105",
+			"casey",
+			"passw",
+			"ob",
+			"admin",
+			"/ ",
+			".pbf",
+			"wget",
+			"server",
+			"stre",
+			"cl",
+			"strop",
+			"restart",
+			"shut",
+			"broker",
+			"stack",
+			"stack.campuslists.com",
+			"rabb",
+			"start",
+			"ob",
+			"Southward",
+			"Uzel",
+			"Ed Southworth",
+			"rab",
+			"15672",
+			"1990",
+			"python",
+			"libssl-dev",
+			"chrpath",
+			"138.197.106.144",
+			"stack.campus",
+			"pub-redis-12025.us-east-1-4.3.ec2.garantiadata.com",
+			"redis-12025.c100.us-east-1-4.ec2.cloud.redislabs.com",
+			"redis-12025.c100.us-east-1-4.ec2.cloud.redislabs.com:12025\n",
+			"RABBITMQ_URL",
+			"rabbitmq",
+			"138.197.106.144",
+			"flower",
+			"celery",
+			"digital",
+			"digitalocean_add_tags",
+			"ansible",
+			"paraphrase",
+			"website",
+			"ansible",
+			"SSH_KEYS_ROOT_PATH",
+			"MzQzMzQ0YjA0MmM5ZThlOTQzZjhiMmRmODgwNzJmZTIwY2I3NzgyY2E3YjIyMDQxNGRkZjU1Njg3NDM3MmNlMQ",
+			"/home/developer/",
+			"/",
+			"\\",
+			"git",
+			"stack",
+			"fog",
+			"ofg",
+			"1",
+			"Fabric",
+			"ids",
+			"id"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			",",
+			" carry ",
+			"© 2019",
+			" ",
+			"",
+			"list_size",
+			" ",
+			">If FOIA failure does school have public facing directory add has public direcotry label,,5/3/2018,,0h 1m,Buck Gerber",
+			">Record FOIA success or failure by adding label,,5/3/2018,,0h 1m,Buck Gerber",
+			"INTO `doughbys001_orders`",
+			"`doughbys001_orders`",
+			"192.168.254.21",
+			"metrics.",
+			"Campusemaillists.com",
+			"info(",
+			"logger.info()",
+			"-",
+			"",
+			">FUCK </a>",
+			"\"</a></td>",
+			"</a></td>",
+			"href=",
+			"<a scr=\"http:",
+			".mp4</td></tr>",
+			"<tr><td>http://v",
+			"models.CharField(max_length=250)",
+			"from helpers.tools",
+			"",
+			"Website Service User",
+			"https://twitter.com/CampuslistsInc/",
+			"https://www.facebook.com/Campuslists",
+			"https://twitter.com/CampuslistsInc",
+			"https://www.facebook.com/Campuslists/",
+			"https://twitter.com/CampuslistsInc",
+			"https://www.facebook.com/Campuslists/",
+			"8885917805",
+			"1-888-591-7805",
+			"<script src=\"{{STATIC_URL}}dajaxice/dajaxice.core.js\" type=\"text/javascript\" charset=\"utf-8\"></script>",
+			"<a href=\"https://facebook.com\" target=\"_blank\">Facebook</a>",
+			"<a href=\"https://twitter.com\" target=\"_blank\">Twitter</a>",
+			"<a href=\"https://facebook.com\" target=\"_blank\">Youtube</a>",
+			"<a href=\"https://youtube.com\" target=\"_blank\">Youtube</a>",
+			"href=\"terms-of-service\"",
+			"href=\"contactus\"",
+			"getquote",
+			"",
+			"status",
+			"contactus",
+			"<a class=\"navbar-brand\" href=\"/\">",
+			"<a class=\"navbar-brand\" href=\"\\\">",
+			"<!DOCTYPE html>\n{% load dajaxice_templatetags %}\n{% load url from future %}",
+			"../../../img",
+			"href=\"../static/img",
+			"href=\"../static/css",
+			"src=\"../static/css",
+			"src=\"../static/img",
+			"src=\"../static/js",
+			"",
+			"diagnostics",
+			"banzo002",
+			"cajuncrazy",
+			"cajuncrazy002",
+			"",
+			"\\\\\\\\n",
+			"\\\\n",
+			"save on move-related",
+			"Depending on your",
+			", you will receive an Offical",
+			"successfully",
+			"the award",
+			"received",
+			", we noticed that you recently",
+			"Get a PDF viewer",
+			"Problems viewing the PDF",
+			"To STOP receiving emails,",
+			"iPhone",
+			"vCard",
+			"rock001",
+			"-",
+			"lob-python==2.18",
+			"club features",
+			"All features information is exportable into a PDF format for print.",
+			"We will give you all the data about your new and old local utilies including contacts and performance ratings.  The contact information can be imported into your phone for easy use.  All directions are \"One Click\" ready. (See \"One Click Directions\")",
+			"Get directions for all our Facts (GOOGLE or MAPQUEST) sent to your phone via text message or emails or use directly with your phone, tablet or computer.",
+			"We will give you {{price.premium_discount}}% OFF premium and standard accounts on your next move.",
+			"We have gathered all the hours, avaiable servcies, maps and directions, pickup/dropoff times for all Uhaul, Hertz, and Penske rental locations.  This information is avaiable in our easy to use Account Center.",
+			"The first 3 months after you move you are 10 times more suseptable to identity theft. Our partnership with LifeLock protects you up to $1,000,000 in damages for the first 3 months for free.",
+			"you will",
+			"Our partnerships and buying volume allows us to negociate the best prices on boxes, tape, packing peanuts, bubblewrap, moving blankets, and custom shipping containers.",
+			"Find the cheapest gas anywhere while moving.",
+			"We will show you what FREE Digital TV stations are avaialbe and what equipment you will need to recieve the singal.",
+			"Exceptional discounts from companys like DirecTV, DISH, Hertz, Charter, TDS, PODS, Uhaul and local companies.",
+			"For change of addresses that can not be filed electronically we will submit a mannual change of address. This includes locating your old POST Office mailling address, printing and filling out the needed forms, addressing the envolope, adding postage, and finaling mailing the letter. We will email you a copy of this letter for your records.",
+			"we will",
+			"can not",
+			"",
+			"Sapphire",
+			"Black",
+			"fasteddies003",
+			"fasteddies001",
+			"fasteddies003",
+			"GA",
+			"GA 30601",
+			"fasteddies003",
+			"",
+			"(608) 291-6616",
+			"tel:608-291-6616",
+			"",
+			"<a class=\"click_ga_cma\" href=\"/\">",
+			"<a class=\"click_ga\" href=\"/\">",
+			"ADDRESS</a></h1>",
+			"https://fonts.googleapis",
+			"from bs4 import BeautifulSoup",
+			"{{STATIC_URL",
+			"{{STATIC_URL}}",
+			"download_speed",
+			"",
+			"datetime.utcnow",
+			"datetime.utcnow()",
+			"store_transaction",
+			"store_transaction_sql",
+			"",
+			"#getrequestforitems",
+			"464646",
+			"#464646",
+			"#4D4D4D",
+			"\\\\\\\\n",
+			"\\\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 927.0
+	},
+	"output.find_results":
+	{
+		"height": 1464.0
+	},
+	"output.sftp":
+	{
+		"height": 333.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"ecto",
+				"deps/ecto/lib/ecto.ex"
+			],
+			[
+				"repo",
+				"lib/scweb/repo.ex"
+			],
+			[
+				"config",
+				"config/config.exs"
+			],
+			[
+				"payment",
+				"achbilling/_old/ach_payment_poster.py"
+			],
+			[
+				"inc",
+				"documents/templates/quotes/v003-Genius-Inc-PDF-quotes-BLANK.html"
+			],
+			[
+				"view",
+				"documents/views.py"
+			],
+			[
+				"urls",
+				"documents/urls.py"
+			],
+			[
+				"url",
+				"documents/urls.py"
+			],
+			[
+				"contrac",
+				"documents/templates/service-contracts/v004-PDF-empty-contract-trial.html"
+			],
+			[
+				"pdf",
+				"sales/pdfer.py"
+			],
+			[
+				"set",
+				"flexvars/set.py"
+			],
+			[
+				"glob",
+				"stack/global_vars.yml"
+			],
+			[
+				"stack",
+				"stack/roles/stackstorm/templates/stack-nginx.conf"
+			],
+			[
+				"settings",
+				"website/settings/dev.py"
+			],
+			[
+				"mod",
+				"scraper/models.py"
+			],
+			[
+				"spamcheck",
+				"spamchecker/tasks.py"
+			],
+			[
+				"spam",
+				"spamchecker/checkemails.py"
+			],
+			[
+				"model",
+				"scraper/models.py"
+			],
+			[
+				"blank",
+				"documents/templates/quotes/v003-PDF-quotes-BLANK.html"
+			],
+			[
+				"quote",
+				"documents/templates/quotes/v003-PDF-quotes.html"
+			],
+			[
+				"trial",
+				"documents/templates/service-contracts/v004-PDF-empty-contract-trial.html"
+			],
+			[
+				"v004",
+				"documents/templates/service-contracts/v004-PDF-empty-contract.html"
+			],
+			[
+				"pdfquote",
+				"documents/templates/quotes/v003-PDF-quotes.html"
+			],
+			[
+				"modl",
+				"scraper/models.py"
+			],
+			[
+				"wisdom",
+				"scraper/sgoogle/wisdom_ordering_clients.py"
+			],
+			[
+				"wis",
+				"scraper/sgoogle/wisdom_ordering_clients.py"
+			],
+			[
+				"v003",
+				"documents/templates/quotes/v003-PDF-quotes.html"
+			],
+			[
+				"models",
+				"scraper/models.py"
+			],
+			[
+				"pdfemp",
+				"documents/templates/service-contracts/v003-PDF-empty-contract.html"
+			],
+			[
+				"v003-pdf",
+				"documents/templates/service-contracts/v003-PDF-empty-contract.html"
+			],
+			[
+				"v3",
+				"documents/templates/quotes/v003-PDF-quotes.html"
+			],
+			[
+				"json",
+				"cookiecutter.json"
+			],
+			[
+				"ajax",
+				"sales/ajax.py"
+			],
+			[
+				"scrap",
+				"scraper/scraper-athens-oh.py"
+			],
+			[
+				"scraper",
+				"refusa/scraper.py"
+			],
+			[
+				"api",
+				"basecrm/api.py"
+			],
+			[
+				"gobla",
+				"stack/global_vars.yml"
+			],
+			[
+				"info",
+				"achbilling/info.tasks"
+			],
+			[
+				"address",
+				"outreach/addresses.py"
+			],
+			[
+				"addres",
+				"outreach/addresses.py"
+			],
+			[
+				"add",
+				"outreach/addresses.py"
+			],
+			[
+				"ad",
+				"outreach/addresses.py"
+			],
+			[
+				"addresses",
+				"outreach/addresses.py"
+			],
+			[
+				"ach",
+				"documents/templates/achauth/v001-PDF-achauth.html"
+			],
+			[
+				"agen",
+				"sales/templates/agent_portal.html"
+			],
+			[
+				"tasks",
+				"refusa/tasks.py"
+			],
+			[
+				"",
+				"sales/ajax.py"
+			],
+			[
+				"celer",
+				"task_scripts/celery.py"
+			],
+			[
+				"ng",
+				"stack/roles/stackstorm/templates/stack-nginx.conf"
+			],
+			[
+				"global",
+				"stack/global_vars.yml"
+			],
+			[
+				"heroku",
+				"website/settings/heroku-dev.py"
+			],
+			[
+				"hero",
+				"website/settings/heroku-prod.py"
+			],
+			[
+				"herokudev",
+				"website/settings/heroku-dev.py"
+			],
+			[
+				"check",
+				"spamchecker/checkemails.py"
+			],
+			[
+				"quot",
+				"sales/quotebase_gen.py"
+			],
+			[
+				"heroku-dev",
+				"website/settings/heroku-dev.py"
+			],
+			[
+				"ws",
+				"wsgi.py"
+			],
+			[
+				"proc",
+				"Procfile"
+			],
+			[
+				"heroku-dev-static",
+				"website/settings/heroku-dev-static.py"
+			],
+			[
+				"fab",
+				"fabfile.py"
+			],
+			[
+				"calcu",
+				"website/static/js/calculators.js"
+			],
+			[
+				"info.tasks",
+				"scraper/ocr/info.tasks"
+			],
+			[
+				"common",
+				"website/settings/common.py"
+			],
+			[
+				"status",
+				"website/templates/status.html"
+			],
+			[
+				"contact",
+				"website/templates/contactus.html"
+			],
+			[
+				"priva",
+				"website/templates/privacy.html"
+			],
+			[
+				"contat",
+				"website/templates/contactus.html"
+			],
+			[
+				"free",
+				"website/templates/freespamchecktool.html"
+			],
+			[
+				"mark",
+				"website/templates/marketingbudgettool.html"
+			],
+			[
+				"inde",
+				"website/templates/index.html"
+			],
+			[
+				"settingsheroku",
+				"website/settings/heroku-prod.py"
+			],
+			[
+				"prod",
+				"website/settings/heroku-prod.py"
+			],
+			[
+				"comm",
+				"website/settings/common.py"
+			],
+			[
+				"gunicorn_config",
+				"gunicorn_config.py"
+			],
+			[
+				"pr",
+				"Procfile"
+			],
+			[
+				"agent",
+				"website/static/js/agentportal.js"
+			],
+			[
+				"workercon",
+				"stack/roles/worker/templates/supervisor-celery-worker.conf.j2"
+			],
+			[
+				"age",
+				"sales/templates/agent_portal.html"
+			],
+			[
+				"celery",
+				"task_scripts/celery.py"
+			],
+			[
+				"leads",
+				"documents/templates/agent_portal/leadseed_tbody.html"
+			],
+			[
+				"tools",
+				"helpers/tools.py"
+			],
+			[
+				"pdfe",
+				"sales/pdfer.py"
+			],
+			[
+				"scr",
+				"refusa/scraper.py"
+			],
+			[
+				"calc",
+				"website/static/js/calculators.js"
+			],
+			[
+				"phan",
+				"stack/roles/worker/tasks/phantomjs_install.yml"
+			],
+			[
+				"worker",
+				"stack/workers.yml"
+			],
+			[
+				"pha",
+				"stack/roles/worker/tasks/phantomjs_install.yml"
+			],
+			[
+				"bust",
+				"refusa/captcha/bust.py"
+			],
+			[
+				"phn",
+				"stack/roles/worker/tasks/phantomjs_install.yml"
+			],
+			[
+				"helper",
+				"helpers/tools.py"
+			],
+			[
+				"project_prep",
+				"stack/roles/worker/tasks/project_prep.yml"
+			],
+			[
+				"git_sync",
+				"stack/roles/worker/tasks/git_sync.yml"
+			],
+			[
+				"conf",
+				"stack/roles/worker/templates/supervisor-celery-worker.conf.j2"
+			],
+			[
+				"git_sy",
+				"stack/roles/worker/tasks/git_sync.yml"
+			],
+			[
+				"workers",
+				"stack/workers.yml"
+			],
+			[
+				"base",
+				"scraper/robots/add_to_basecrm.py"
+			],
+			[
+				"local",
+				"reqs/all-local-requirements.txt"
+			],
+			[
+				"export",
+				"linux_export"
+			],
+			[
+				"aws",
+				"aws/s3.py"
+			],
+			[
+				"do",
+				"website/settings/do-prod.py"
+			],
+			[
+				"yml",
+				"stack/roles/worker/handlers/celery.yml"
+			],
+			[
+				"s3",
+				"aws/s3.py"
+			],
+			[
+				"gitsync",
+				"stack/roles/worker/tasks/git_sync.yml"
+			],
+			[
+				"aj",
+				"sales/ajax.py"
+			],
+			[
+				"super",
+				"stack/roles/worker/templates/supervisor-celery-worker.conf.j2"
+			],
+			[
+				"v001-email-spamchecker-report.html",
+				"documents/templates/emails/v001-EMAIL-spamchecker-report.html"
+			],
+			[
+				"git",
+				"stack/roles/worker/tasks/git_sync.yml"
+			],
+			[
+				"workers.yml",
+				"stack/workers.yml"
+			],
+			[
+				"git_",
+				"stack/roles/worker/tasks/git_sync.yml"
+			],
+			[
+				"calcul",
+				"website/static/js/calculators.js"
+			],
+			[
+				"slides",
+				"website/static/css/custom/slides.css"
+			],
+			[
+				"flex",
+				"flexvars/toredis.py"
+			],
+			[
+				"tore",
+				"flexvars/toredis.py"
+			],
+			[
+				"st2",
+				"stack/roles/stackstorm/templates/st2.conf"
+			],
+			[
+				"dev",
+				"website/settings/dev.py"
+			],
+			[
+				"agentportal",
+				"website/static/js/agentportal.js"
+			],
+			[
+				"dajax",
+				"website/static/dajaxice/dajaxice.core.js"
+			],
+			[
+				"require",
+				"reqs/all-local-requirements.txt"
+			],
+			[
+				"views",
+				"sales/views.py"
+			],
+			[
+				"outreach",
+				"outreach/tasks.py"
+			],
+			[
+				"ajx",
+				"sales/ajax.py"
+			],
+			[
+				"info.taks",
+				"documents/info.tasks"
+			],
+			[
+				"push",
+				"metrics/push.py"
+			],
+			[
+				"probe",
+				"scraper/prober/prober.py"
+			],
+			[
+				"metric",
+				"metrics/push.py"
+			],
+			[
+				"quo",
+				"sales/quotebase_gen.py"
+			],
+			[
+				"cook",
+				"cookiecutter.json"
+			],
+			[
+				"portal",
+				"website/static/js/agentportal.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 288.0,
+	"status_bar_visible": true
+}
