@@ -944,6 +944,10 @@
 	},
 	"file_history":
 	[
+		"/C/scagent/lib/sc_agent.ex",
+		"/C/scagent/mix.exs",
+		"/C/Users/Casey/Desktop/phoenix_client/config/config.exs",
+		"/C/scagent/.gitignore",
 		"/C/scagent/scagent/lib/csagent.ex",
 		"/C/scagent/scagent/lib/supervisor.ex",
 		"/C/scagent/scagent/mix.exs",
@@ -1067,11 +1071,7 @@
 		"/F/Account Info/NETWORK PASSWORDS.txt",
 		"/F/Account Info/robotserver info.txt",
 		"/F/Account Info/ScottTrade.txt",
-		"/F/Account Info/Fantasy Pro Passwords.txt",
-		"/F/deis/deis/README.md",
-		"/F/Applications/Windows 10 Pro v.1709 En-US (64-bit) ACTiVATED-HOBBiT/Torrent_downloaded_from_Demonoid_-_www.demonoid.pw_.txt",
-		"/C/info.py",
-		"/C/Users/Casey/Desktop/USB - TV Stick Update/image/info.txt"
+		"/F/Account Info/Fantasy Pro Passwords.txt"
 	],
 	"find":
 	{
@@ -1215,6 +1215,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"PhoenixClient",
 			"521",
 			"id",
 			"ups",
@@ -1341,8 +1342,7 @@
 			"ofg",
 			"1",
 			"Fabric",
-			"ids",
-			"id"
+			"ids"
 		],
 		"highlight": true,
 		"in_selection": false,

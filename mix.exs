@@ -21,7 +21,7 @@ defmodule ScAgent.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:phoenix_client, "~> 0.3"},
+      {:phoenix_client, "~> 0.10"},
       {:websocket_client, "~> 1.3"},
       {:jason, "~> 1.0"}
     ]
